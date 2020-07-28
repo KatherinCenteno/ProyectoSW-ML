@@ -1,18 +1,12 @@
-# E-Commerce-Website-Using-Python
-
-## Get In Touch
-Have any problem? Don't hesitate to connect... <br>
-(i) Facebook: https://www.facebook.com/mohsingram <br>
-(ii) Youtube: https://www.youtube.com/mohsingram <br>
+# Games-Online-Website-Using-Python
 
 ## Web View
 Go to this link to view website <br>
-https://menshut.pythonanywhere.com
+https://kcentenot.pythonanywhere.com
 
 ## Summary
-Hello friends, This is my first full e-commerce project with Python-Flask. This is free. Anybody can use and moderate this project.
+Proyecto que permite realizar ordenes en linea de Consolas y Videojuegos
 
-## Platform Used
 ### Front-End
   (i) HTML5 <br>
   (ii) CSS3 <br>
@@ -33,8 +27,7 @@ Hello friends, This is my first full e-commerce project with Python-Flask. This 
 (i) Search Product <br>
 (ii) View Product <br>
 (iii) Create Order <br>
-(iv) Change Email & Password <br>
-(v) Can View Previous Order with UPDATE and DELETE <br>
+
 
 ### Admin
 (i) Add New Product <br>
@@ -42,5 +35,3 @@ Hello friends, This is my first full e-commerce project with Python-Flask. This 
 (iii) See all Orders <br>
 (iv) Manage all Users <br>
 
-## Conclusion
-There are also many more feature which are not in the list. Feel free to use this project
